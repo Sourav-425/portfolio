@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
@@ -13,26 +13,34 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>E-TicketManagement</title>
+      <link>http://localhost:1313/project/eticketmanagement/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/eticketmanagement/</guid>
+      <description>&lt;p&gt;A Ticket Management project made using java.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>Tic_Tac_Toe</title>
+      <link>http://localhost:1313/project/tictactoe/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tictactoe/</guid>
+      <description>&lt;p&gt;Tic Tac Toe is a game that is fun to play with friends.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <title>Tribute_Page</title>
+      <link>http://localhost:1313/project/tributepage/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tributepage/</guid>
+      <description>&lt;p&gt;Lionel Messi the greatest footballer of all time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Registration_Form</title>
+      <link>http://localhost:1313/project/registrationform/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>http://localhost:1313/project/registrationform/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     

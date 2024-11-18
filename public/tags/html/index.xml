@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/html/</link>
+      <atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <description>HTML</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>HTML</title>
+      <link>http://localhost:1313/tags/html/</link>
+    </image>
+    
+    <item>
+      <title>Tic_Tac_Toe</title>
+      <link>http://localhost:1313/project/tictactoe/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tictactoe/</guid>
+      <description>&lt;p&gt;Tic Tac Toe is a game that is fun to play with friends.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute_Page</title>
+      <link>http://localhost:1313/project/tributepage/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tributepage/</guid>
+      <description>&lt;p&gt;Lionel Messi the greatest footballer of all time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Registration_Form</title>
+      <link>http://localhost:1313/project/registrationform/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/registrationform/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

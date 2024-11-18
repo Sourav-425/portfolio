@@ -42,7 +42,8 @@ profiles:
 # Interests
 interests:
   - "Web Developer"
-  - "Competitive Programming"
+  - "Alogorithms and Data Structures"
+  - "Object oriented programmming"
 
 # Education
 education:
@@ -51,7 +52,7 @@ education:
     date_start: "2020-03-09"
     date_end: ""
     summary: |
-      CGPA: 3.7/4.0
+      
       
       Courses included:
       - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -63,10 +64,7 @@ education:
     date_end: "2020-04-01"
     summary: |
       GPA: 5.0/5.0
-      
-      Courses included:
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   
 
   - area: "SSC"
     institution: "Jahangirnagar University School and College"
@@ -75,9 +73,7 @@ education:
     summary: |
       GPA: 5.0/5.0
       
-      Courses included:
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      
 
    
 # Work
