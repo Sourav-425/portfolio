@@ -53,8 +53,18 @@ education:
       
       
       Courses included:
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        I am cuurently studying in Computer Science and Engineering at Jahangirnagar University.
+      
+      Courses included:
+      - Structured Programming Language (C)
+      - Object Oriented Programming(C++,Java)
+      - Data Structures and Algorithms
+      - Data and Telecommunication
+      - Electrical and Electronics Circuit Design
+      - Database Management
+      - Web Development
+      - Computer Graphics
+      - Operating System
 
   - area: "HSC"
     institution: "Jahangirnagar University School and College"
