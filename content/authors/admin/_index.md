@@ -9,9 +9,7 @@ name_pronunciation: ""
 first_name: "MD.Sourav"
 last_name: "Ahmed"
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -78,29 +76,45 @@ education:
    
 # Work
 work:
-  - position: "N/A"
-    company_name: "N/A"
-    company_url: "N/A"
-    date_start: ""
-    date_end: ""
-    summary: |
+  - position: Technical Volunteer of NCPC'23, JU
+    company_name: Jahangirnagar University
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-02-18
+    date_end: 2024-03-09
+    summary: |2-
       Responsibilities include:
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      - PC setup
+      - Operating System setup
+      - Ip setup
+      - System Monitoring
+      - Solving Technical Problems
 
 # Skills
 skills:
-  - name: "Technical Skills"
+  - name: Technical Skills
     items:
-      - name: "C++"
+      - name: HTML and CSS
+        description: ''
         percent: 80
-        icon: "code-bracket"
-      - name: "HTML"
-        percent: 80
-        icon: "chart-bar"
-      - name: "SQL"
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 100
+        icon: fa-code
+      - name: SQL
+        description: ''
         percent: 40
-        icon: "circle-stack"
+        icon: circle-stack
+      - name: Java
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Linux 
+        description: ''
+        percent: 40
+        icon: Linux-icon
+
   - name: "Hobbies"
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -114,6 +128,15 @@ skills:
       - name: "Photography"
         percent: 80
         icon: "camera"
+
+awards:
+  - title: FreeCodeCamp Certification on Responsive Web Design
+    url: https://www.freecodecamp.org/certification/fcc311f991f-0050-4acb-b2ce-e16e3e4f85f6/responsive-web-design
+    date: '2024-11-04'
+    awarder: FreeCodeCamp
+    icon: coursera
+    summary: |
+      I have completed the responsive web design course on FreeCodeCamp by submitting 5 Projects and completing some reltive projects. Completing this project i have learnt about basic HTML and CSS.
 
 # Languages
 languages:
